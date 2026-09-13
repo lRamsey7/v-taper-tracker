@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://LRamsey7.github.io/v-taper-tracker",
+  "homepage": "https://lRamsey7.github.io/v-taper-tracker",
   "scripts": {
     "dev": "vite",
     "build": "tsc -b && vite build",
